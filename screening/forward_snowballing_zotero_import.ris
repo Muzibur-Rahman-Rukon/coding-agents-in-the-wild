@@ -1,0 +1,409 @@
+TY  - JOUR
+TI  - Beyond the Hype: The Efficiency-Throughput Gap with GitHub Copilot
+AU  - Liu, Fei
+AU  - McKinnon, Todd
+PY  - 2026
+JO  - Communications of the ACM
+VL  - 69
+IS  - 10
+SP  - 68
+EP  - 77
+DO  - 10.1145/3797488
+UR  - https://doi.org/10.1145/3797488
+KW  - GitHub Copilot
+KW  - Developer productivity
+KW  - Field study
+N1  - Forward-snowballing candidate; cited by the included paper The Impact of AI on Developer Productivity: Evidence from GitHub Copilot (arXiv:2302.06590). Full text screened and meets inclusion criteria.
+ER  -
+
+TY  - THES
+TI  - The Impact of AI-Powered Development Agents on Software Developer Productivity
+AU  - Shabib, Mohammad
+PY  - 2026
+PB  - Ankara University
+M3  - Master's thesis
+UR  - https://dspace.ankara.edu.tr/server/api/core/bitstreams/59a6c90a-cb27-4358-9fd4-be73e8f08f78/content
+KW  - GitHub Copilot
+KW  - Developer productivity
+KW  - Mixed-methods case study
+N1  - Forward-snowballing candidate cited by the included paper The Impact of AI on Developer Productivity: Evidence from GitHub Copilot (2302.0659.pdf). Full text screened and meets inclusion criteria.
+ER  -
+
+TY  - JOUR
+TI  - Navigating the AI Landscape: An Analysis of AI Developer Tools Usage, Sentiment, and Trust Among IT Professionals
+AU  - Ceccucci, Wendy
+AU  - Peslak, Alan
+AU  - Jones, Kiku
+PY  - 2025
+JO  - Journal of Information Systems Applied Research and Analytics
+VL  - 18
+IS  - 1
+SP  - 32
+EP  - 41
+DO  - 10.62273/oemc9700
+UR  - https://doi.org/10.62273/oemc9700
+KW  - GitHub Copilot
+KW  - Tabnine
+KW  - Amazon CodeWhisperer
+KW  - Developer trust
+N1  - Found via OpenAlex forward-citation fallback for included seed 2301.04991.pdf. Full text reviewed in the JISARA issue PDF.
+ER  -
+
+TY  - JOUR
+TI  - Comparative Evaluation of AI Programming Assistants: An Exploratory Longitudinal Case Study of GitHub Copilot, ChatGPT, and Cursor Configurations in Full-Stack Development
+AU  - Đambić, Goran
+AU  - Maurovic, Anton
+AU  - Ogrizek Biškupić, Ivana
+AU  - Radovan, Aleksander
+PY  - 2026
+JO  - Information
+VL  - 17
+IS  - 9
+SP  - 918
+DO  - 10.3390/info17090918
+UR  - https://doi.org/10.3390/info17090918
+KW  - GitHub Copilot
+KW  - ChatGPT
+KW  - Cursor
+KW  - Code quality
+KW  - Implementation time
+N1  - OpenAlex forward-citation fallback for included seed 2302.00438.pdf; full text screened. Findings compare fixed sequential tool/model configurations and should be interpreted with order/version confounding.
+ER  -
+
+TY  - JOUR
+TI  - Don’t Settle for the First! How Many GitHub Copilot Solutions Should You Check?
+AU  - Oertel, Julian
+AU  - Klünder, Jil
+AU  - Hebig, Regina
+PY  - 2025
+JO  - Information and Software Technology
+VL  - 183
+SP  - 107737
+DO  - 10.1016/j.infsof.2025.107737
+UR  - https://doi.org/10.1016/j.infsof.2025.107737
+KW  - GitHub Copilot
+KW  - Code correctness
+KW  - Empirical study
+N1  - OpenAlex forward-citation fallback for included seed 2302.00438.pdf; full text screened in the 2026 SE proceedings summary, which references the 2025 journal article.
+ER  -
+
+TY  - JOUR
+TI  - AI Assistance Variants in Software Development Cycles
+AU  - Callahan, Kevin
+PY  - 2025
+JO  - Issues in Informing Science and Information Technology
+DO  - 10.28945/5539
+UR  - https://doi.org/10.28945/5539
+KW  - GitHub Copilot
+KW  - Claude
+KW  - ChatGPT
+KW  - Mixed-methods case study
+N1  - OpenAlex forward-citation screening; full text reviewed. Four student researchers compared assistants while developing a memory application.
+ER  -
+
+TY  - CONF
+TI  - An Evaluation of the Impact of Code Generation Tools on Software Development
+AU  - Osorio, Luiz Fernando Mendes
+PY  - 2025
+DO  - 10.5753/sbsi.2025.246605
+UR  - https://doi.org/10.5753/sbsi.2025.246605
+KW  - GitHub Copilot
+KW  - Code correctness
+KW  - Task completion time
+N1  - OpenAlex forward-citation screening; full text reviewed. Task-based student experiment comparing Copilot-assisted and unassisted coding.
+ER  -
+
+TY  - CONF
+TI  - Assessing the Use of a Code Generation Assistant in Professional Software Development: An Experience Report
+AU  - Osorio, Luiz Fernando Mendes
+PY  - 2025
+DO  - 10.5753/sbqs.2025.13845
+UR  - https://doi.org/10.5753/sbqs.2025.13845
+KW  - GitHub Copilot
+KW  - Professional software development
+KW  - Experience report
+N1  - OpenAlex forward-citation screening; full text reviewed. Three-month professional-team case study in legacy-system maintenance.
+ER  -
+
+TY  - JOUR
+TI  - Comparative Analysis of GitHub Copilot and ChatGPT in Web Application Development: An Experimental Study
+AU  - Hyseni, Lindita Nebiu
+AU  - Deraku, Artan
+PY  - 2025
+JO  - International Journal of Computational and Experimental Science and Engineering
+VL  - 11
+IS  - 2
+SP  - 3375
+EP  - 3398
+DO  - 10.22399/ijcesen.1846
+UR  - https://doi.org/10.22399/ijcesen.1846
+KW  - GitHub Copilot
+KW  - ChatGPT
+KW  - Web application development
+KW  - Experimental study
+N1  - OpenAlex forward-citation screening; full text reviewed. Empirical comparison in student web-application development.
+ER  -
+
+TY  - CONF
+TI  - How Can Copilot Assist in Creating Accessible Websites? An Empirical Study
+AU  - Teran, Luciano A.
+AU  - da Rocha, Thayssa A.
+AU  - da Silva, Ingrid M. M.
+AU  - de Salles, Rafael B.
+AU  - Melo, Giselle L. N.
+AU  - Mota, Marcelle P.
+AU  - de Souza, Cleidson R. B.
+PY  - 2025
+DO  - 10.5753/ihc.2025.10811
+UR  - https://doi.org/10.5753/ihc.2025.10811
+KW  - GitHub Copilot
+KW  - Accessibility
+KW  - Empirical study
+N1  - OpenAlex forward-citation screening; full text reviewed from the SBC Digital Library. Evaluates Copilot-generated web code against accessibility criteria.
+ER  -
+
+TY  - CHAP
+TI  - A Journey Through SPACE: Unpacking the Perceived Productivity of GitHub Copilot
+AU  - Wivestad, Viggo Tellefsen
+AU  - Ulfsnes, Rasmus
+PY  - 2025
+DO  - 10.1007/978-3-031-72781-8_5
+UR  - https://doi.org/10.1007/978-3-031-72781-8_5
+KW  - GitHub Copilot
+KW  - Developer productivity
+KW  - SPACE framework
+N1  - OpenAlex forward-citation screening; full text reviewed. Cross-sectional survey of 120 developers in two agile organizations.
+ER  -
+
+TY  - JOUR
+TI  - Managing Expectations Towards AI Tools for Software Development: A Multiple-Case Study
+AU  - Jensen, Victor Vadmand
+AU  - Alami, Adam
+AU  - Bruun, Anders Rysholt
+AU  - Persson, John Stouby
+PY  - 2025
+JO  - Information Systems and e-Business Management
+VL  - 23
+SP  - 869
+EP  - 901
+DO  - 10.1007/s10257-025-00704-7
+UR  - https://doi.org/10.1007/s10257-025-00704-7
+KW  - GitHub Copilot
+KW  - AI tool adoption
+KW  - Multiple-case study
+N1  - OpenAlex forward-citation screening; full text reviewed. Three-organization study using interviews, field visits, meetings, and retrospectives.
+ER  -
+
+TY  - CHAP
+TI  - The Impact of Generative Artificial Intelligence Tools in Project-Based Learning
+AU  - van Dijk, Tom
+AU  - Zaytsev, Vadim
+PY  - 2026
+DO  - 10.1007/978-3-032-01377-4_3
+UR  - https://doi.org/10.1007/978-3-032-01377-4_3
+KW  - GitHub Copilot
+KW  - ChatGPT
+KW  - Programming education
+KW  - Controlled study
+N1  - OpenAlex forward-citation screening; full text reviewed. Forty students divided into Copilot, ChatGPT, combined-tool, and control groups.
+ER  -
+TY  - CHAP
+TI  - Adoption of AI-Assisted Code Generation in Software Development: Insights from GitHub Copilot Trainings
+AU  - Koivisto, Heidi
+AU  - Koivusaari, Jarmo
+AU  - Saarela, Katja
+PY  - 2026
+DO  - 10.1007/978-3-032-32636-2_16
+UR  - https://doi.org/10.1007/978-3-032-32636-2_16
+KW  - GitHub Copilot
+KW  - Organizational adoption
+KW  - Developer experience
+KW  - Training
+N1  - Found through Google Scholar forward snowballing from included seed 2509.1365.pdf. Full text screened; organizational training/hackathon study with surveys, discussions, and interviews.
+ER  -
+TY  - CONF
+TI  - AI IDEs or Autonomous Agents? Measuring the Impact of Coding Agents on Software Development
+AU  - Agarwal, Shyam
+AU  - He, Hao
+AU  - Vasilescu, Bogdan
+PY  - 2026
+DO  - 10.1145/3793302.3793589
+UR  - https://doi.org/10.1145/3793302.3793589
+KW  - GitHub Copilot
+KW  - OpenAI Codex
+KW  - Cursor
+KW  - Claude Code
+KW  - Causal study
+N1  - Google Scholar forward snowball from included seed 2507.15003.pdf; full text reviewed. Longitudinal repository-level DiD study with matching; agent attribution and unobserved intensity are limitations.
+ER  -
+
+TY  - CONF
+TI  - Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub
+AU  - Ehsani, Ramtin
+AU  - Pathak, Sakshi
+AU  - Rawal, Shriya
+AU  - Al Mujahid, Abdullah
+AU  - Imran, Mia Mohammad
+AU  - Chatterjee, Preetha
+PY  - 2026
+DO  - 10.1145/3793302.3793579
+UR  - https://doi.org/10.1145/3793302.3793579
+KW  - OpenAI Codex
+KW  - GitHub Copilot
+KW  - Cursor
+KW  - Claude Code
+KW  - Pull requests
+KW  - Empirical study
+N1  - Google Scholar forward snowball from included seed 2507.15003.pdf; full text reviewed. Analyses 33,596 agent PRs and 600 rejected PRs across five agents.
+ER  -
+TY  - JOUR
+TI  - HarnessSecurity-Bench: Do Security Mechanisms Really Protect Coding Agent Harnesses?
+AU  - Zhengyang Zhu
+AU  - Liming Huang
+AU  - Runmin Ji
+AU  - Mingxi Ye
+AU  - Zihan Zhou
+AU  - Hanyang Guo
+AU  - Jingwen Wu
+AU  - Yuhan Ye
+AU  - Yuming Feng
+AU  - Hong-Ning Dai
+AU  - Zibin Zheng
+PY  - 2026
+DO  - 10.48550/arXiv.2610.07639
+UR  - https://doi.org/10.48550/arXiv.2610.07639
+KW  - GitHub Copilot
+KW  - Coding agents
+KW  - Empirical study
+N1  - Google Scholar forward snowball from included seed 2509.2204.pdf; full text reviewed.
+ER  -
+
+TY  - JOUR
+TI  - MOSAIC: Knowledge-Guided CLI Command Composition Attack in LLM Coding Agents
+AU  - Jiangrong Wu
+AU  - Huaijin Wang
+AU  - Yihao Zhang
+AU  - Yuhong Nan
+AU  - Shuai Wang
+PY  - 2026
+DO  - 10.48550/arXiv.2607.02857
+UR  - https://doi.org/10.48550/arXiv.2607.02857
+KW  - GitHub Copilot
+KW  - Coding agents
+KW  - Empirical study
+N1  - Google Scholar forward snowball from included seed 2509.2204.pdf; full text reviewed.
+ER  -
+
+TY  - CONF
+TI  - Characterizing the Adoption of Autonomous Coding Agents in Functional Programming Repositories
+AU  - Kayre Mendes
+AU  - Jailton Coelho
+PY  - 2026
+DO  - 10.5753/se4fp.2026.32864
+UR  - https://doi.org/10.5753/se4fp.2026.32864
+KW  - AI coding assistant
+KW  - Empirical study
+N1  - Full text reviewed from OpenAlex-discovered forward citation; source seed(s): 2509.14745.pdf.
+ER  -
+
+TY  - JOUR
+TI  - Developers’ Experience with Generative AI Beyond Productivity Assessment – Insights from an Empirical Mixed-Methods Field Study
+AU  - Charlotte Brandebusemeyer
+AU  - Kerim Zunic
+AU  - Thomas Zimmermann
+AU  - Tobias Schimmer
+AU  - Bert Arnrich
+PY  - 2026
+DO  - 10.1145/3847122
+UR  - https://doi.org/10.1145/3847122
+KW  - AI coding assistant
+KW  - Empirical study
+N1  - Full text reviewed from OpenAlex-discovered forward citation; source seed(s): 2302.0659.pdf, 2304.10778.pdf, 2501.13282.pdf.
+ER  -
+
+TY  - CONF
+TI  - Identifying and Mitigating API Misuse in Large Language Models
+AU  - Terry Yue Zhuo
+AU  - Junda He
+AU  - Jiamou Sun
+AU  - Zhenchang Xing
+AU  - David Lo
+AU  - John Grundy
+AU  - Xiaoning Du
+PY  - 2026
+DO  - 10.1109/tse.2026.3651566
+UR  - https://doi.org/10.1109/tse.2026.3651566
+KW  - AI coding assistant
+KW  - Empirical study
+N1  - Full text reviewed from OpenAlex-discovered forward citation; source seed(s): 2403.08937.pdf.
+ER  -
+
+TY  - CONF
+TI  - Predicting Acceptance and Review Effort in Human and Agent Pull Requests
+AU  - Kartik Ghanshyambhai Pansuriya
+AU  - Ehsan Ghorbani
+AU  - Deepak Singh
+AU  - Eman Abdullah AlOmar
+PY  - 2026
+DO  - 10.1109/compsac69091.2026.00052
+UR  - https://doi.org/10.1109/compsac69091.2026.00052
+KW  - AI coding assistant
+KW  - Empirical study
+N1  - Full text reviewed from OpenAlex-discovered forward citation; source seed(s): 2509.14745.pdf.
+ER  -
+
+TY  - JOUR
+TI  - Reflective AI use and student engagement in AI-supported programming: technology acceptance, programming self-efficacy, and behavioral trace evidence
+AU  - Sheng Wang
+AU  - Jiabi Zhao
+PY  - 2026
+DO  - 10.3389/fpsyg.2026.1929887
+UR  - https://doi.org/10.3389/fpsyg.2026.1929887
+KW  - AI coding assistant
+KW  - Empirical study
+N1  - Full text reviewed from OpenAlex-discovered forward citation; source seed(s): 2506.10051.pdf.
+ER  -
+
+TY  - CONF
+TI  - Can We Trust the AI Pair Programmer? Copilot for API Misuse Detection and Correction
+AU  - Saikat Mondal
+AU  - Chanchal Kumar Roy
+AU  - Hong Wang
+AU  - Juan Arguello
+AU  - Samantha Mathan
+PY  - 2025
+DO  - 10.1109/cascon66301.2025.00025
+UR  - https://doi.org/10.1109/cascon66301.2025.00025
+KW  - AI coding assistant
+KW  - Empirical study
+N1  - Full text reviewed from OpenAlex-discovered forward citation; source seed(s): 2302.00438.pdf.
+ER  -
+
+TY  - CONF
+TI  - Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios
+AU  - Zhi Chen
+AU  - Lingxiao Jiang
+PY  - 2025
+DO  - 10.1109/saner64311.2025.00068
+UR  - https://doi.org/10.1109/saner64311.2025.00068
+KW  - AI coding assistant
+KW  - Empirical study
+N1  - Full text reviewed from OpenAlex-discovered forward citation; source seed(s): 2308.06587.pdf.
+ER  -
+
+TY  - JOUR
+TI  - Examining the Use and Impact of an AI Code Assistant on Developer Productivity and Experience in the Enterprise
+AU  - Justin D. Weisz
+AU  - Shraddha Kumar
+AU  - Michael J. Muller
+AU  - Karen-Ellen Browne
+AU  - Arielle Goldberg
+AU  - Katrin Ellice Heintze
+PY  - 2025
+DO  - 10.1145/3706599.3706670
+UR  - https://doi.org/10.1145/3706599.3706670
+KW  - AI coding assistant
+KW  - Empirical study
+N1  - Full text reviewed from OpenAlex-discovered forward citation; source seed(s): 2303.08733.pdf, 2303.17125.pdf.
+ER  -
+

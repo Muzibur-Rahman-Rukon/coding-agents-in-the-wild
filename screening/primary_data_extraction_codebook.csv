@@ -1,0 +1,8 @@
+Field,Extraction rule / limitation
+Citation,"Authors/year from arXiv metadata; journal_ref or venue text from PDF when available. If missing, labeled not recorded; arXiv ID/DOI retained."
+Tool/version,Tool list from the existing full-text screen; version/model only populated when found near a named tool in PDF text.
+Date studied,Explicit study/data-collection period in PDF methods only; publication year is not substituted.
+Setting/sample,Setting is a keyword-based classification; sample-size strings are extracted from PDF text and require validation.
+Measures/findings,Measures are detected from abstracts/full text. Key finding is an abstract-derived concise result summary; validate wording and numbers against the paper.
+RQ1–RQ5,Left unmapped because no review-level RQ1–RQ5 definitions were found in workspace documents. Fill after protocol RQs are supplied.
+Quality Score,Proposed combined AI-assisted score from quality_assessment.csv; not human consensus.
